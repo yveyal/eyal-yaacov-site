@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "eyalyaacov.com"
 title        = "Distributed Ideas"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
