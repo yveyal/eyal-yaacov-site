@@ -1,0 +1,1 @@
+Thoughts and rambling about teach stuff
